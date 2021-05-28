@@ -93,7 +93,7 @@ export default class App {
         });
 
         self.discord.click(function () {
-            window.open('https://discord.gg/MmbGAaw');
+            window.open('https://mstdn.social/@StuxCraft');
         });
 
         self.git.click(function () {

@@ -1,4 +1,4 @@
-# Kaetram
+# StuxCraft
 
 [![Version](https://img.shields.io/github/package-json/v/Kaetram/Kaetram-Open?style=flat)](https://github.com/Kaetram/Kaetram-Open)
 [![MPL-2.0 License](https://img.shields.io/github/license/Kaetram/Kaetram-Open?style=flat)](https://github.com/Kaetram/Kaetram-Open/blob/master/LICENSE)
@@ -9,13 +9,13 @@
 [![Fork This Repo](https://img.shields.io/github/forks/Kaetram/Kaetram-Open?style=social&icon=github)](https://github.com/Kaetram/Kaetram-Open/fork)
 [![Discord](https://img.shields.io/discord/583033499741847574?logo=discord&color=7289da&style=flat)](https://discord.gg/MmbGAaw)
 
-Kaetram is an open-source game-engine created to aid those interested in entering the game
+StuxCraft is an open-source game-engine created to aid those interested in entering the game
 development realm. The codebase is simple, clean, and intuitive. This project is intended to be used
 as a learning tool. The original idea is based on Little Workshop's demo game&mdash;BrowserQuest
 (BQ). This game uses original BQ assets as well as custom-made ones. The entire code-base has been
 written from scratch, using more modern approaches.
 
-Live Version &ndash; <https://kaetram.com>
+Live Version &ndash; <https://stuxcraft.com>
 
 Join us on Discord &ndash; <https://discord.gg/MmbGAaw>
 
